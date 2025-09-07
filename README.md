@@ -1,16 +1,32 @@
-## Hi there 👋
+👩‍💻 Shirin | Front-End Developer
+Building modern, responsive, and interactive web experiences.
 
-<!--
-**SweeteDev/SweeteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟦 HTML5 / CSS3 → Responsive layouts & semantic markup
+📜 JavaScript (ES6+) → Modern JS concepts & clean code
+⚛️ React (Hooks & Functional Components) → Dynamic, component-based UIs
+🎨 Tailwind CSS → Utility-first, fast styling
+🔗 Git & GitHub → Version control & collaboration
+
+
+🔍 About Me
+
+🧠 Curious & creative coder
+💻 Consistent learner with a growth mindset
+🚀 Always improving — one line of code at a time
+
+
+🎯 Goals
+
+🏗 Build real-world projects & portfolio
+📂 Document my progress on GitHub
+👩‍💻 Step into a professional Front-End Developer role
+
+
+📫 Connect
+📧 [jmshirin62@gmail.com]
+
+💡 Code. Learn. Repeat.
+
